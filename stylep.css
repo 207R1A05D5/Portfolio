@@ -12,11 +12,11 @@ body{
     color: #fff;
 }
 #header{
-    width: 90%;
-    height: 80vh;
+    width: 101%;
+    height: 98vh;
     background-image: url(nikhil2.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: right top 30%;
 }
 .container{
     padding: 10px 10%;
@@ -62,13 +62,13 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-top: 20%;
-    font-size: 30px;
+    font-size: 40px;
 }
-.header-text h1{
-    font-size: 60px;
-    margin-top: 20px;
+.header-text h2{
+    font-size: 50px;
+    margin-top: 10px;
 }
-.header-text h1 span{
+.header-text h2 span{
     color:#ff004f;
 }
 /*------------Abpout------------->*/
